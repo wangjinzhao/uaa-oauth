@@ -1,5 +1,7 @@
-package com.gold.wang;
+package com.gold.wang.oauthservice.feign;
 
+
+import com.gold.wang.oauthservice.domain.User;
 
 public class UserFeignClientFallback implements UserFeignClient {
 

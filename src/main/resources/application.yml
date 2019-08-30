@@ -16,3 +16,8 @@ spring:
 
 #ribbon:
 #  NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule # 通过属性更改负载均衡规则
+
+
+
+swagger:
+  enable: true

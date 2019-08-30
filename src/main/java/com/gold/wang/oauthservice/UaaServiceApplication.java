@@ -1,4 +1,4 @@
-package com.gold.wang;
+package com.gold.wang.oauthservice;
 
 
 import org.springframework.boot.SpringApplication;
